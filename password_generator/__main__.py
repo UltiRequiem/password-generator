@@ -2,7 +2,6 @@ import secrets
 import string
 
 import PySimpleGUI as sg
-
 import pyperclip
 
 
